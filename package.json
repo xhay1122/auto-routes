@@ -1,0 +1,23 @@
+{
+  "name": "auto-routes",
+  "version": "1.0.0",
+  "description": "express 自动注册路由插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhay1122/auto-routes.git"
+  },
+  "keywords": [
+    "auto",
+    "routes"
+  ],
+  "author": "xhay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhay1122/auto-routes/issues"
+  },
+  "homepage": "https://github.com/xhay1122/auto-routes#readme"
+}

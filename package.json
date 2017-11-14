@@ -1,5 +1,5 @@
 {
-  "name": "auto-routes",
+  "name": "node-auto-routes",
   "version": "1.0.0",
   "description": "express 自动注册路由插件",
   "main": "index.js",
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xhay1122/auto-routes.git"
+    "url": "git+https://github.com/xhay1122/node-auto-routes.git"
   },
   "keywords": [
     "auto",
-    "routes"
+    "routes",
+    "autoRoutes"
   ],
-  "author": "xhay",
+  "author": "xhay1122",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xhay1122/auto-routes/issues"
+    "url": "https://github.com/xhay1122/node-auto-routes/issues"
   },
-  "homepage": "https://github.com/xhay1122/auto-routes#readme"
+  "homepage": "https://github.com/xhay1122/node-auto-routes#readme"
 }
